@@ -10,7 +10,7 @@ const Header = () => {
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
                 <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <p className='header-text fs-18 fw-3'>Welcome to BookHub, your go-to site for discovering your next great read. Explore our vast collection across all genres, from fiction to non-fiction, and find reviews to guide your choices. Happy reading!</p>
                 <SearchForm />
             </div>
         </header>
